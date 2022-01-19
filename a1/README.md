@@ -20,27 +20,27 @@
 
 > #### Git commands w/short descriptions:
 
-1. the best git command there is
-2. the worst git command
-3. 
-4. 
-5. 
-6. 
-7. 
+1. git init -
+2. git status - 
+3. git commit - 
+4. git push - 
+5. git pull - 
+6. git add - 
+7. git 
 
 #### Assignment Screenshots:
 
 *Screenshot of AMPPS running http://localhost*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![AMPPS Installation Screenshot](img/php_apache_running.png)
 
 *Screenshot of running java Hello*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![JDK Installation Screenshot](img/java_hello_world.png)
 
 *Screenshot of Android Studio - My First App*:
 
-![Android Studio Installation Screenshot](img/android.png)
+![Android Studio Installation Screenshot](img/my_first_app.png)
 
 
 #### Tutorial Links:
