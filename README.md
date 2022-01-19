@@ -1,6 +1,4 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
-
-# LIS 3781
+# LIS 4381
 
 ## John Corrigan
 
@@ -9,7 +7,8 @@
 *Course Work Links:*
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install something
-    - Install something
+    - Install AMPPS
+    - Install Android studio
+    - Install Java
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
