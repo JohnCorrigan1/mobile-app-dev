@@ -20,13 +20,13 @@
 
 > #### Git commands w/short descriptions:
 
-1. git init -
-2. git status - 
-3. git commit - 
-4. git push - 
-5. git pull - 
-6. git add - 
-7. git 
+1. git init - create a new local repository
+2. git status - gets the status of the current repo
+3. git commit - commits changes
+4. git push - push from local directory to remote server
+5. git pull - pull from remote server to local
+6. git add - adds file to index
+7. git diff - difference between local directory and stage
 
 #### Assignment Screenshots:
 
