@@ -32,7 +32,7 @@
 
 *Screenshot of AMPPS running http://localhost*:
 
-![AMPPS Installation Screenshot](img/php_apache_running.png)
+![PHP configuration Screenshot](img/php_conf.png)
 
 *Screenshot of running java Hello*:
 
