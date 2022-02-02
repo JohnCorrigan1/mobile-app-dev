@@ -12,3 +12,6 @@
     - Install Java
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
+    - Create Brushcetta recipe homepage
+    - Create Brushetta recipe ingredients page
+    - Skillsets 1-3
