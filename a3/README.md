@@ -21,7 +21,7 @@
 
 *Screenshot of App homepage running http://localhost*:
 
-![app homepage](img/app1.png)
+<img src="img/app1.png" width="250" height="400 />
 
 *Screenshot of app with input:
 
