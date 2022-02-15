@@ -25,7 +25,8 @@
 
 *Screenshot of app with input:
 
-![app with input](img/app2.png)
+<img src="img/app2.png" width="250" height="400 />
+
 
 *Screenshot of Skillset 4 Decision Structures*:
 
