@@ -21,7 +21,7 @@
 
 *Screenshot of App homepage running http://localhost*:
 
-![app homepage](img/app1.png)
+![app homepage](img/app1.png){ height=50%}
 
 *Screenshot of app with input:
 
