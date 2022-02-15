@@ -15,3 +15,8 @@
     - Create Brushcetta recipe homepage
     - Create Brushetta recipe ingredients page
     - Skillsets 1-3
+
+3. [A3 README.md](a3/README.md "My A3 README.md file")
+    - Create My event ticket app
+    - Create Pet ERD according to business rules
+    - Complete skillsets 1-4
