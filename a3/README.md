@@ -21,7 +21,7 @@
 
 *Screenshot of App homepage running http://localhost*:
 
-![app homepage](img/app1.png)   |   ![app working](img/app2.png)
+![app homepage](img/app1.png)
 
 *Screenshot of app with input:
 
@@ -46,3 +46,8 @@
 *Screenshot of Populated tables*:
 
 ![Populated tables](img/populated_tables.png)
+
+<p float="left">
+  <img src="img/app1.png" width="100" />
+  <img src="img/app2.png" width="100" /> 
+</p>
