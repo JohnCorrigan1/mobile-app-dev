@@ -21,12 +21,11 @@
 
 *Screenshot of App homepage running http://localhost*:
 
-<img src="img/app1.png" width="250" height="400 />
+![app homepage](img/app1.png)
 
 *Screenshot of app with input:
 
-<img src="img/app2.png" width="250" height="400 />
-
+![app with input](img/app2.png)
 
 *Screenshot of Skillset 4 Decision Structures*:
 
@@ -47,9 +46,3 @@
 *Screenshot of Populated tables*:
 
 ![Populated tables](img/populated_tables.png)
-
-<p float="left">
-  <img src="img/ss4_ss.png" width="100" />
-  <img src="img/ss5_ss.png" width="100" /> 
-  <img src="img/ss6_ss.png" width="100" />
-</p>
