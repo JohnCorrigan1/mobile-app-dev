@@ -46,3 +46,5 @@
 *Screenshot of Populated tables*:
 
 ![Populated tables](img/populated_tables.png)
+
+<img src="img/app1.png" width="200" height="200" >
