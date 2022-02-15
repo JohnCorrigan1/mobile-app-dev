@@ -47,4 +47,4 @@
 
 ![Populated tables](img/populated_tables.png)
 
-<img src="img/app1.png" width="200" height="200" >
+<img src="img/app1.png" height="100" >
