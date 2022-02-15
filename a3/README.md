@@ -21,7 +21,7 @@
 
 *Screenshot of App homepage running http://localhost*:
 
-![app homepage](img/app1.png)
+![app homepage](img/app1.png)   |   ![app working](img/app2.png)
 
 *Screenshot of app with input:
 
