@@ -19,4 +19,9 @@
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - Create My event ticket app
     - Create Pet ERD according to business rules
-    - Complete skillsets 1-4
+    - Complete skillsets 4-6
+
+4. [P1 README.md](p1/README.md "My P1 README.md file")
+    - Create business card home page
+    - Create business card details page
+    - Complete skillsets 7-9
