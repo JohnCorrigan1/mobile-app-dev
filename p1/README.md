@@ -22,8 +22,8 @@
 *Screenshot of App homepage running http://localhost*:
 
 <table><tr>
-<td> <img src="img/p1_main.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="img/p1_details.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="img/app1.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="img/app2.png" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
 
 *Screenshot of Skillset 7 Random number generator*:
