@@ -30,16 +30,7 @@
 
 ![Skillset 7 Random number generator](img/ss7_screenshot.png)
 
-*Screenshot of Skillset 8 Largest of three numbers*:
-
-![Skillset 8 largest 3 numbers](img/ss8_screenshot.png)
-
-*Screenshot of Skillset 9 Array runtime*:
-
-![Skillset 9 Array Runtime](img/ss9_screenshot.png)
-
 <table><tr>
-<td> <img src="img/ss7_screenshot.png" alt="Drawing" style="width: 150px;"/> </td>
-<td> <img src="img/ss8_screenshot.png" alt="Drawing" style="width: 150px;"/> </td>
-<td> <img src="img/ss9_screenshot.png" alt="Drawing" style="width: 150px;"/> </td>
+<td> <img src="img/ss8_screenshot.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="img/ss9_screenshot.png" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
