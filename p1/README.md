@@ -28,12 +28,12 @@
 
 *Screenshot of Skillset 7 Random number generator*:
 
-![Skillset 7 Random number generator](img/ss7_ss.png)
+![Skillset 7 Random number generator](img/ss7_screenshot.png)
 
 *Screenshot of Skillset 8 Largest of three numbers*:
 
-![Skillset 8 largest 3 numbers](img/ss8_ss.png)
+![Skillset 8 largest 3 numbers](img/ss8_screenshot.png)
 
 *Screenshot of Skillset 9 Array runtime*:
 
-![Skillset 9 Array Runtime](img/ss9_ss.png)
+![Skillset 9 Array Runtime](img/ss9_screenshot.png)
