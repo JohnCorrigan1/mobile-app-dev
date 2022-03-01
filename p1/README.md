@@ -37,3 +37,9 @@
 *Screenshot of Skillset 9 Array runtime*:
 
 ![Skillset 9 Array Runtime](img/ss9_screenshot.png)
+
+<table><tr>
+<td> <img src="img/ss7_screenshot.png" alt="Drawing" style="width: 150px;"/> </td>
+<td> <img src="img/ss8_screenshot.png" alt="Drawing" style="width: 150px;"/> </td>
+<td> <img src="img/ss9_screenshot.png" alt="Drawing" style="width: 150px;"/> </td>
+</tr></table>
