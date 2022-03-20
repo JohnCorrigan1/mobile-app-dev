@@ -8,7 +8,7 @@
 
 1. test
 2. test
-3. Complete skillsets 10-12
+3. hello
 
 #### README.md file should include the following items:
 
