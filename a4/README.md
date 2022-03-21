@@ -4,11 +4,9 @@
 
 ### Assignment #4 Requirements:
 
-*Sub-Heading:*
-
-1. test
-2. test
-3. hello
+1. jQuery validation client side
+2. Complete skillsets 10-12
+3. Add images and links to carousel 
 
 #### README.md file should include the following items:
 
@@ -19,18 +17,17 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of App homepage running http://localhost*:
+*Screenshot of jQuery validation client side*:
 
 <table><tr>
-<td> <img src="img/app1.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="img/app2.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="img/wrong_input.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="img/correct_input.png" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
 
-*Screenshot of Skillset 7 Random number generator*:
+*Screenshot of Skillsets 10-12*:
 
-![Skillset 7 Random number generator](img/ss7_screenshot.png)
+![Skillset 10 ArrayList](img/ss10_ss.png)
 
-<table><tr>
-<td> <img src="img/ss8_screenshot.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="img/ss9_screenshot.png" alt="Drawing" style="width: 250px;"/> </td>
-</tr></table>
+![Skillset 11 Alpha Numeric Special](img/ss11_ss.png)
+
+![Skillset 10 Temperature Conversion](img/ss12_ss.png)
