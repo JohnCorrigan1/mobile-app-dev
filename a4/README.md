@@ -21,10 +21,15 @@
 
 <table><tr>
 <td> <img src="img/wrong_input.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="img/correct_input.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="img/right.png" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
 
 *Screenshot of Skillsets*:
+
+<table><tr>
+<td> <img src="img/ss10_ss.png" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="img/ss11_ss.png" alt="Drawing" style="width: 250px;"/> </td>
+</tr></table>
 
 ![Skillset 10 ArrayList](img/ss10_ss.png)
 
