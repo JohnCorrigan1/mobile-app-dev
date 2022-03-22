@@ -31,8 +31,4 @@
 <td> <img src="img/ss11_ss.png" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
 
-![Skillset 10 ArrayList](img/ss10_ss.png)
-
-![Skillset 11 Alpha Numeric Special](img/ss11_ss.png)
-
 ![Skillset 10 Temperature Conversion](img/ss12_ss.png)
