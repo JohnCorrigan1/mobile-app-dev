@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
+		<meta name="description" content="My portfolio showing off some of my course work at FSU.">
 		<meta name="author" content="John Corrigan">
 		<link rel="icon" href="favicon.ico">
 

@@ -24,11 +24,12 @@
 <td> <img src="img/right.png" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
 
-*Screenshot of Skillsets*:
+*Screenshot of Skillsets 10 and 11*:
 
 <table><tr>
 <td> <img src="img/ss10_ss.png" alt="Drawing" style="width: 250px;"/> </td>
 <td> <img src="img/ss11_ss.png" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
 
+*Screenshot of SKillset 12*:
 ![Skillset 10 Temperature Conversion](img/ss12_ss.png)
