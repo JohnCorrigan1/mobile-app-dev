@@ -26,5 +26,6 @@
     - Create business card details page
     - Complete skillsets 7-9
 5. [A4 README.md](a4/README.md "My A4 README.md file")
-    - test
-    - test
+    - Clone student file repo
+    - jQuery client side validation
+    - Complete Skillsets 10-12

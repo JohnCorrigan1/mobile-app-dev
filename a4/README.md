@@ -24,7 +24,7 @@
 <td> <img src="img/correct_input.png" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
 
-*Screenshot of Skillsets 10-12*:
+*Screenshot of Skillsets*:
 
 ![Skillset 10 ArrayList](img/ss10_ss.png)
 
