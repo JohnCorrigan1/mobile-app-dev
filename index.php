@@ -58,7 +58,7 @@
 								data-pause="hover"
 								data-wrap="true"
 								data-keyboard="true"			
-								data-ride="carousel">
+							ºº	data-ride="carousel">
 						
     				<!-- Carousel indicators -->
 						<ol class="carousel-indicators">

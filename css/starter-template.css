@@ -10,8 +10,9 @@ body
 h1
 {
 	margin: 0px;     
-	color: #666;
+	color: red;
 	padding: 0px;
 	font-size: 48px;
 	font-family: "trebuchet ms", sans-serif;    
 }
+

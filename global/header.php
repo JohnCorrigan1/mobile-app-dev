@@ -1,1 +1,1 @@
-<h1>John Corrigan</h1>
+<h1 class="title">John Corrigan</h1>
